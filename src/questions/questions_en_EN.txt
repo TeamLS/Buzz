@@ -1,0 +1,24 @@
+TEXT-How many minutes is a rugby match?-sport-80-75-30-50
+TEXT-How long is an Olympic swimming pool?-sport-Fifty meters-Seventy meters-Twenty meters-Ten meters
+TEXT-In which country is the Interlagos F1 circuit ?-sport-Brazil-Spain-Germany-Italy
+TEXT-What color is cobalt?-science-Blue-Red-Yellow-Cyan
+TEXT-When did Alan Hodgkin get Nobel Prize for Medicine?-science-1963-1971-1958-1984
+TEXT-What colour jersey is worn by the winners of each stage of the Tour De France?-sport-Yellow-Red-Blue-White
+TEXT-Name the only heavyweight boxing champion to finish his career of 49 fights without ever having been defeated?-sport-Rocky Marciano-John Cena-Undertaker-Triple H
+TEXT-Which sport does Constantino Rocca play?-sport-Golf-Tennis-Volley-Rugby
+TEXT-Name the country where you would find the Cresta Run...-sport-Switzerland-Netherland-Germany-Turkey
+TEXT-How many times was the Men's Tennis Singles at Wimbledon won by Bjorn Borg?-sport-Five-Six-Seven-Eight
+TEXT-In 2011, which country hosted a Formula 1 race for the first time?-sport-India-China-Egypt-Italy
+TEXT-Name the game played on a lawn called a 'crown green'...-sport-Bowls-Ping Pong-Chess-Rugby
+TEXT-Which chess piece can only move diagonally?-sport-A bishop-A Queen-The King-The Tower
+IMAGE-Which celestial body shown in the picture?-science-Comet-asteroid-Moon-Star-star.png
+IMAGE-Which part of the earth has the highest temperature?-science-Inner core-Mantle-Crust-Outer core-earth.png
+IMAGE-Who is the guy in the photo?-science-Linus Torvalds-Mark Zuckerberg-Guido van Rossum-David Bowie-linus_torvalds.png
+TEXT-When was William Shakespeare born?-history-23 April 1564-23 February 1784-1 January 1568-21 February 1555 
+TEXT-On what date did the Battle of Culloden take place?-history-16th April 1746-17th April 1745-18th April 1743-12th April 1712
+TEXT-Who was Henry VIll's first wife?-history-Catherine-Mary-Christin-Helen
+TEXT-When did Margaret Thatcher become Prime Minister?-history-1979-1978-1989-1969
+TEXT-When did the Cold War end?-history-1989-1981-1851-1980
+TEXT-Who was the architect who designed the Millennium Dome?-history-Richard Rogers-Richard Mars-George Hulk-John Craspers
+TEXT-When did the Eurostar train service between Britain and France start running?-history-November 1994-November 1993-November 1984-November 1995
+TEXT-When was the euro introduced as legal currency on the world market?-history-1999-1996-1995-1993
