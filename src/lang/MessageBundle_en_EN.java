@@ -9,7 +9,7 @@ import java.util.ListResourceBundle;
 
 /**
  *
- * @author leaderq
+ * @author tasosxak
  */
 public class MessageBundle_en_EN extends ListResourceBundle {
 
