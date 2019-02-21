@@ -1,7 +1,7 @@
 # Buzz
 A quiz game developed in Java, with categories, music, graphics, multiplayer and two languages (Greek and English).
 The graphics are from the popular game [Buzz!](https://en.wikipedia.org/wiki/Buzz!).
-The game consists of 6 rounds and each round is randomly chosen to be one of the round modes described below. There
+The game consists of 6 rounds and each round is randomly chosen to be one of the [round modes](#round-modes) described below. There
 are simple text questions and questions with images. You can play solo or with 2 players. The scores are stored and there is a ranking
 for the single-player games (counting points) and for multi-player games (counting wins).
 
@@ -13,7 +13,7 @@ and Javadoc).
   <img src="https://raw.githubusercontent.com/TeamLS/Buzz/master/Buzz_logo.png" width="250">
 </p>
 
-**Round Modes**
+## Round Modes
 - **Bet**: You choose how many points you bet. If you answer correctly, you earn these points otherwise you lose them
 - **Correct Answer**: Whoever manages to answer and answers correctly wins 1000 points
 - **Count Down**: You have 5 seconds. The faster you answer the more points you gain
