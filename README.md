@@ -40,6 +40,12 @@ and Javadoc).
 <p align="center">
   <img src="https://raw.githubusercontent.com/TeamLS/Buzz/master/Screenshots/6.PNG">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TeamLS/Buzz/master/Screenshots/7.PNG">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TeamLS/Buzz/master/Screenshots/8.PNG">
+</p>
 
 
 
